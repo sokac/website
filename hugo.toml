@@ -1,0 +1,23 @@
+baseURL = 'https://sokac.net/'
+languageCode = 'en-us'
+title = 'Josip Šokčević'
+author = 'Josip Šokčević'
+copyright = '2006 - 2024 Josip Šokčević'
+theme = 'paper'
+paginate = 5
+
+[params]
+linkedin = 'sokcevic'
+rss = true
+
+# home profile
+avatar = 'sokcevic@gmail.com'
+name = 'Josip Šokčević'
+bio = 'a.k.a. Šokac | e-mail: info (at) sokac.net'
+
+[menu]
+  [[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 10

@@ -11,20 +11,20 @@ I grew up in Vinkovci, a small town in Croatia. I don't recall exactly when I
 got my first computer, but I sure was under 10. I was fascinated by how it
 works and its endless possibilities. I learned
 [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) programming
-language in I.G.  Kovacica elementary school and attended a few national
-competitions (which, to my surprise, is still active!). I started doing more web
+language at I.G.  Kovacica Elementary School and attended a few national
+competitions (which, to my surprise, are still active!). I started doing more web
 development (good ol' LAMP stack) when I started high school, mostly for local
-business, personal projects and community projects, such as
+business, personal projects, and community projects, such as
 [blogeri.hr](https://blogeri.hr) (won an award for the best Croatian website in
 Media and News category in 2016) and [linuxzasve.com](https://linuxzasve.com).
 
 At age 21, I moved to Palo Alto for work. I ended up going back to Croatia a
-year later to finish my education and get B.S. (and M.S later). I was lucky
+year later to finish my education and get a B.S. (and a M.S. later). I was lucky
 enough to get a US work visa (H1B) at age 24 and I've lived in San Francisco
 since.
 
-Fast forward to today (2024), I'm a father of two daughters, and a dual
-citizen. I still work in tech.
+Fast forward to today (2024), I'm a father of two daughters and a dual citizen.
+I still work in tech.
 
 ## Jobs
 
@@ -54,7 +54,7 @@ citizen. I still work in tech.
 
 I work as a software engineer but I still like to write code as a hobby too
 (can it be called a hobby then?). Although, not as much as I used to. I also
-enjoy working with hardware too - from building a PC to doing personal IoT
+enjoy working with hardware - from building a PC to doing personal IoT
 projects, as well as playing casual chess. In general, I like to learn new
 things - from personal finance, blockchain, LLM / Gen AI to 3D printing,
 woodworking, BBQ and so much more.

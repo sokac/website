@@ -149,7 +149,29 @@ fi
 exit 0
 ```
 
-## Bonus: Conflicts in submodules
+## Bonus 1: diff.ignoreSubmodules config
+
+You can influence how some git commands will behave with
+[diff.ignoreSubmodules](https://www.git-scm.com/docs/git-config#Documentation/git-config.txt-diffignoreSubmodules)
+config. Although it's set in diff section, it does affect more commands rather
+than just diffs.
+
+| git command | diff.ignoreSubmodules=all | diff.ignoreSubmodules=dirty\|none |
+| --- | --- | --- |
+| git add .   | stages submodules | stages submodules |
+| git status   | shows only staged submodules | shows staged and unstaged modified submodules |
+| git commit -a | ignores submodules | commits modified submodules |
+| git diff | ignores submodules | shows submodules |
+| git show | ignores submodules | shows submodules |
+
+If you are using submodules, I would personally discourage use of
+diff.ignoreSubmodules=all as it hides too many things. If you are worried about
+performance, setting it up to dirty is a good compromise.
+
+*Note*: Prior to 2.42, `git commit` ignored staged git submodules with
+`diff.ignoreSubmodules=all`.
+
+## Bonus 2: Conflicts in submodules
 This is probably the most confusing problem with submodules. Let's say you add
 a commit that updates a submodule. And so does someone else who pushes their
 code before you. You are forced to pull the latest from origin, and you get a
@@ -182,6 +204,8 @@ under the hood, and how to effectively resolve conflicts - define best practices
 and write playbooks on what to do in what cases. Your teammates and stakeholders
 will also need to be familiar with it, so: speak up and share your plans early.
 
+I also want to thank the entire Chromium community for helping surface user
+experience issues, and for opportunity to improve it.
 
 _Note: Did I miss something? Feel free to reach out to me and I'll do my best to
 update this post_.

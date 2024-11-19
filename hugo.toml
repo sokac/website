@@ -4,7 +4,6 @@ title = 'Josip Šokčević'
 author = 'Josip Šokčević'
 copyright = '2006 - 2024 Josip Šokčević'
 theme = 'paper'
-paginate = 10
 
 [params]
 linkedin = 'sokcevic'
@@ -14,6 +13,9 @@ rss = true
 avatar = 'sokcevic@gmail.com'
 name = 'Josip Šokčević'
 bio = 'a.k.a. Šokac | e-mail: info (at) sokac.net'
+
+[pagination]
+  pagersize = 10
 
 [menu]
   [[menu.main]]

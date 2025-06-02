@@ -1,44 +1,46 @@
 +++
 author = 'sokac'
 title = 'About me'
-date = 2024-01-21T09:58:45-08:00
+date = 2025-06-01T09:58:45-08:00
 draft = false
 +++
 
 Hi there! I'm a software engineer living in San Francisco.
 
-I grew up in Vinkovci, a small town in Croatia. I don't recall exactly when I
-got my first computer, but I sure was under 10. I was fascinated by how it
-works and its endless possibilities. I learned
+I grew up in Vinkovci, a small town in Croatia. I started to
+tinkering with computers early in my life. I was very fascinated by how they
+work work and their vast possibilities. I learned
 [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) programming
 language at I.G.  Kovacica Elementary School and attended a few national
-competitions (which, to my surprise, are still active!). I started doing more web
-development (good ol' LAMP stack) when I started high school, mostly for local
-business, personal projects, and community projects, such as
-[blogeri.hr](https://blogeri.hr) (won an award for the best Croatian website in
-Media and News category in 2016) and [linuxzasve.com](https://linuxzasve.com).
+competitions (which, to my surprise, are still active!). Then, I did some web
+development (good ol' LAMP stack), mostly for local business, personal
+projects, and community projects.
+[blogeri.hr](https://blogeri.hr), a blog aggregator, won an award for the best
+Croatian website in the Media and News category in 2016 and
+[linuxzasve.com](https://linuxzasve.com), a Linux community website, won an
+award in 2009 for the best website in the Science and Education category.
 
-At age 21, I moved to Palo Alto for work. I ended up going back to Croatia a
+I moved to Palo Alto for work when I was 21. I ended up going back to Croatia a
 year later to finish my education and get a B.S. (and a M.S. later). I was lucky
 enough to get a US work visa (H1B) at age 24 and I've lived in San Francisco
 since.
 
-Fast forward to today (2024), I'm a father of two daughters and a dual citizen.
+Fast forward to today (2025), I'm a Croatian-American and a father of two daughters.
 I still work in tech.
 
 ## Jobs
 
-### Google (2020-current)
-* Team: P&E EngProd SI Source (Chromium source)
+### Google (Jan 2020 - May 2025)
+* Team: P&D Source Developer Experience (Chromium & Android source)
 * Location: San Francisco
-* Position: Team Lead / SWE
+* Position: Team Lead, SWE
 
-### Thumbtack (2015-2020)
+### Thumbtack (Nov 2015 - Jan 2020)
 * Team: Infrastructure Engineering
 * Location: San Francisco
 * Position: Principal Software Engineer
 
-### The Backplane (2011-2015)
+### The Backplane (July 2011 - Nov 2015)
 * Team: Backend
 * Location: San Francisco
 * Position: Software Engineer

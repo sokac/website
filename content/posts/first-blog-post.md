@@ -2,6 +2,7 @@
 title = "Hello World! It's me again."
 date = 2024-01-21T10:04:27-08:00
 draft = false
+description = "A reintroduction to my personal blog after a 13-year hiatus, sharing my journey through tech companies in the Bay Area and plans for future content."
 +++
 
 I decided to refresh my personal website, and with it, I thought it would be

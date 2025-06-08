@@ -2,6 +2,7 @@
 title = 'Git Submodules'
 date = 2024-05-03T23:00:55-07:00
 draft = false
+description = "A comprehensive guide to Git submodules, covering their implementation, common challenges, and best practices based on real-world experience from the Chromium project."
 +++
 
 Have you ever worked on a project that depends on other libraries, be that

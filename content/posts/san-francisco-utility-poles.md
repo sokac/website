@@ -2,6 +2,7 @@
 title = 'San Francisco Utility Poles'
 date = 2025-06-03T10:19:37-07:00
 draft = false
+description = "A visual exploration of San Francisco's unique utility pole infrastructure, particularly in the Sunset district, and the ongoing challenges of utility undergrounding."
 +++
 
 San Francisco, The City by the Bay, has unique architectural and cultural

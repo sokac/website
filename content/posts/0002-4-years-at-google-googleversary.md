@@ -2,6 +2,7 @@
 title = '4 Years at Google - Googleversary'
 date = 2024-01-21T19:31:51-08:00
 draft = false
+description = "A personal reflection on four years at Google, sharing experiences working on Chrome Operations, the impact of COVID-19, and insights into working at a large tech company."
 +++
 
 4 years ago on this day I joined Google (fun fact: I joined Google on Tuesday,

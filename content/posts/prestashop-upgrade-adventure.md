@@ -2,6 +2,7 @@
 title = 'Prestashop 1.7.8.5 to Prestashop 8.2.0 Upgrade Adventure'
 date = 2024-11-18T20:15:00-07:00
 draft = false
+description = "A detailed account of upgrading Prestashop e-commerce sites from version 1.7.8.5 to 8.2.0, including PHP compatibility challenges and the upgrade process."
 +++
 
 Over the weekend, I finally upgraded this server from Debian Buster to Debian
